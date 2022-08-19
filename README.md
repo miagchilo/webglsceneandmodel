@@ -13,6 +13,8 @@ Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
+
+This web page was created to show different possibilities of react-three libraries. I added different component such as 3model of a Toyota , ground component where i used MeshReflectorMaterial(looks cool). Also flying boxes ( i thought of partciles effect, but im not quet there yet). Also neon rings were added to compliment Toyota(Konichiwa Tokio) and to show reflection from the ground .
 I decided to download a good model from the website, since blender is still complicated for me ( however i will practise), 
 I did not change the model because i wanted it to be detailed since i was planning not to have a lot of stuff in the web page. 
 
